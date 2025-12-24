@@ -60,3 +60,8 @@ The model can predict the preferred genre for a **21-year-old Male**:
 ```python
 model.predict([[21, 1]])
 # Output: array(['HipHop'], dtype=object)
+
+## Results
+
+Test Set Prediction Accuracy: 100 %
+
